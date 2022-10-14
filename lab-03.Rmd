@@ -20,7 +20,7 @@ nobel <- read_csv("data/nobel.csv")
 
 #### Narrative
 
-*Remove this text and add your answer here.*
+*There are 935 total entries within this data set, with a total of 26 variables. Each row represents a nobel prize winner, which includes all their necessary details for the data set*
 
 
 ### Exercise 2
