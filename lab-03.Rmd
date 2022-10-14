@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Nobel laureates"
-author: "INSERT TEAM MEMBER NAMES HERE"
+author: "Joseph Brudenell, Timi Ani, Myles Douglas, Caoimhe Nugent, Matthew Duncan"
 date: "`r Sys.Date()`"
 output: html_document
 ---
